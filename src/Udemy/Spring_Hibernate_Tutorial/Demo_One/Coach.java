@@ -5,4 +5,6 @@ package Udemy.Spring_Hibernate_Tutorial.Demo_One;
  */
 public interface Coach {
     String getDailyWorkout();
+
+    String getDailyFortune();
 }
